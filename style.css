@@ -1,0 +1,23 @@
+.container{ /* classe coloca ponto */
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+body{ /* tag não coloca ponto */
+  background-color: bisque;
+}
+
+footer{
+  text-align: center;
+}
+
+.invisible{
+  visibility: hidden;
+}
+
+.huge{
+  font-size: 10rem;
+  color: red;
+  font-weight: bold;
+}
